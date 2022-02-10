@@ -1,0 +1,21 @@
+/* style.css */
+
+.header {
+    background-color:#ff0000;
+    font-family: Verdana, DejaVu sans, sans-serif 
+}
+
+.subsection {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
